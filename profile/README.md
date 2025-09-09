@@ -26,8 +26,8 @@ We currently operate through **seven specialized teams**, each focusing on a dom
 * **AI/ML** : Research and projects in Artificial Intelligence and Machine Learning
 * **App Development** : Building scalable Android/iOS applications
 * **Competitive Programming (CP)** : Problem-solving, algorithms, and data structures for coding excellence
-* **Cyber Security** : Exploring security practices, ethical hacking, and digital safety
-* **DevSecOps** : Infrastructure, automation, and deployment best practices
+* **DevSecOps** : Security-focused infrastructure, automation, and deployment
+* **UI/UX** : Designing intuitive, user-friendly, and impactful digital experiences
 * **Web Development** : Designing and developing modern web solutions
 * **Women in Tech** : Driving diversity and inclusion in technology
 
