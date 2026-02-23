@@ -44,6 +44,39 @@ This GitHub organization serves as the central hub for:
 
 ---
 
+## HackMol – Annual Flagship Hackathon
+
+**HackMol** is the flagship annual hackathon of GDG on Campus NIT Jalandhar, bringing together innovators, builders, and problem-solvers from across the country. Each edition continues our mission to promote creativity, collaboration, and real-world impact through technology.
+
+### HackMol 7 (Current Edition)
+
+<p align="left">
+  <a href="https://hackmol7.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://hackmol-7.devfolio.co/">
+    <img src="https://img.shields.io/badge/Devfolio-View%20Hackathon-purple?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### Editions
+
+| Edition   | Year | Repository                                                                       | Live Website                                                 |
+| --------- | ---- | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| HackMol 7 | 2026 | [https://github.com/gdgcnitj/hackmol-7/](https://github.com/gdgcnitj/hackmol-7/) | [https://hackmol.com/](https://hackmol.com/)                 |
+| HackMol 6 | 2025 | [https://github.com/gdgcnitj/hackmol-6/](https://github.com/gdgcnitj/hackmol-6/) | [https://hackmol6.vercel.app/](https://hackmol6.vercel.app/) |
+| HackMol 5 | 2024 | [https://github.com/gdgcnitj/hackmol-5/](https://github.com/gdgcnitj/hackmol-5/) | [https://hackmol5.vercel.app/](https://hackmol5.vercel.app/) |
+| HackMol 4 | 2023 | [https://github.com/gdgcnitj/hackmol-4/](https://github.com/gdgcnitj/hackmol-4/) | [https://hackmol4.vercel.app/](https://hackmol5.vercel.app/) |
+| HackMol 3 | 2022 | [https://github.com/gdgcnitj/hackmol-3/](https://github.com/gdgcnitj/hackmol-3/) | [https://hackmol3.vercel.app/](https://hackmol5.vercel.app/) |
+| HackMol 2 | 2021 | —                                                                                | —                                                            |
+| HackMol 1 | 2020 | —                                                                                | —                                                            |
+
+> Each year, HackMol continues to grow in scale, participation, and impact.
+
+---
+
 ## Get Involved
 
 Whether you are a beginner or an experienced developer, GDGC NITJ welcomes everyone who is eager to **learn and contribute**.
@@ -54,4 +87,4 @@ Whether you are a beginner or an experienced developer, GDGC NITJ welcomes every
 
 ---
 
-### ✨ Together, let’s build a stronger developer community at NIT Jalandhar!
+### Together, let’s build a stronger developer community at NIT Jalandhar!
