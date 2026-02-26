@@ -66,10 +66,10 @@ This GitHub organization serves as the central hub for:
 | Edition   | Year | Repository                                                                       | Live Website                                                 |
 | --------- | ---- | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | HackMol 7 | 2026 | [https://github.com/gdgcnitj/hackmol-7/](https://github.com/gdgcnitj/hackmol-7/) | [https://hackmol.com/](https://hackmol.com/)                 |
-| HackMol 6 | 2025 | [https://github.com/gdgcnitj/hackmol-6/](https://github.com/gdgcnitj/hackmol-6/) | [https://hackmol6.vercel.app/](https://hackmol6.vercel.app/) |
-| HackMol 5 | 2024 | [https://github.com/gdgcnitj/hackmol-5/](https://github.com/gdgcnitj/hackmol-5/) | [https://hackmol5.vercel.app/](https://hackmol5.vercel.app/) |
-| HackMol 4 | 2023 | [https://github.com/gdgcnitj/hackmol-4/](https://github.com/gdgcnitj/hackmol-4/) | [https://hackmol4.vercel.app/](https://hackmol5.vercel.app/) |
-| HackMol 3 | 2022 | [https://github.com/gdgcnitj/hackmol-3/](https://github.com/gdgcnitj/hackmol-3/) | [https://hackmol3.vercel.app/](https://hackmol5.vercel.app/) |
+| HackMol 6 | 2025 | [https://github.com/gdgcnitj/hackmol-6/](https://github.com/gdgcnitj/hackmol-6/) | [https://v6.hackmol.com/](https://v6.hackmol.com/) |
+| HackMol 5 | 2024 | [https://github.com/gdgcnitj/hackmol-5/](https://github.com/gdgcnitj/hackmol-5/) | [https://v5.hackmol.com/](https://v5.hackmol.com/) |
+| HackMol 4 | 2023 | [https://github.com/gdgcnitj/hackmol-4/](https://github.com/gdgcnitj/hackmol-4/) | [https://v4.hackmol.com/](https://v4.hackmol.com/) |
+| HackMol 3 | 2022 | [https://github.com/gdgcnitj/hackmol-3/](https://github.com/gdgcnitj/hackmol-3/) | [https://v3.hackmol.com/](https://v3.hackmol.com/) |
 | HackMol 2 | 2021 | —                                                                                | —                                                            |
 | HackMol 1 | 2020 | —                                                                                | —                                                            |
 
