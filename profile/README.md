@@ -63,15 +63,15 @@ This GitHub organization serves as the central hub for:
 
 ### Editions
 
-| Edition   | Year | Repository                                                              | Live Website                                |
-| --------- | ---- | ----------------------------------------------------------------------- | ------------------------------------------- |
-| HackMol 7 | 2026 | [github.com/gdgcnitj/hackmol-7](https://github.com/gdgcnitj/hackmol-7/) | [hackmol.com/](https://hackmol.com/)        |
-| HackMol 6 | 2025 | [github.com/gdgcnitj/hackmol-6](https://github.com/gdgcnitj/hackmol-6/) | [v6.hackmol.com/](https://v6.hackmol.com/)  |
-| HackMol 5 | 2024 | [github.com/gdgcnitj/hackmol-5](https://github.com/gdgcnitj/hackmol-5/) | [v5.hackmol.com/](https://v5.hackmol.com/)  |
-| HackMol 4 | 2023 | [github.com/gdgcnitj/hackmol-4](https://github.com/gdgcnitj/hackmol-4/) | [v4.hackmol.com/](https://v4.hackmol.com/)  |
-| HackMol 3 | 2022 | [github.com/gdgcnitj/hackmol-3](https://github.com/gdgcnitj/hackmol-3/) | [v3.hackmol.com/](https://v3.hackmol.com/)  |
-| HackMol 2 | 2021 | —                                                                       | —                                           |
-| HackMol 1 | 2020 | —                                                                       | —                                           |
+| Edition   | Year | Repository                                                              | Live Website                               |
+| --------- | ---- | ----------------------------------------------------------------------- | ------------------------------------------ |
+| HackMol 7 | 2026 | [github.com/gdgcnitj/hackmol-7](https://github.com/gdgcnitj/hackmol-7/) | [hackmol.com](https://hackmol.com/)        |
+| HackMol 6 | 2025 | [github.com/gdgcnitj/hackmol-6](https://github.com/gdgcnitj/hackmol-6/) | [v6.hackmol.com](https://v6.hackmol.com/)  |
+| HackMol 5 | 2024 | [github.com/gdgcnitj/hackmol-5](https://github.com/gdgcnitj/hackmol-5/) | [v5.hackmol.com](https://v5.hackmol.com/)  |
+| HackMol 4 | 2023 | [github.com/gdgcnitj/hackmol-4](https://github.com/gdgcnitj/hackmol-4/) | [v4.hackmol.com](https://v4.hackmol.com/)  |
+| HackMol 3 | 2022 | [github.com/gdgcnitj/hackmol-3](https://github.com/gdgcnitj/hackmol-3/) | [v3.hackmol.com](https://v3.hackmol.com/)  |
+| HackMol 2 | 2021 | —                                                                       | —                                          |
+| HackMol 1 | 2020 | —                                                                       | —                                          |
 
 > Each year, HackMol continues to grow in scale, participation, and impact.
 
